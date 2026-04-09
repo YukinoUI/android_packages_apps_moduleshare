@@ -1,0 +1,11 @@
+android_app_import {
+    name: "moduleshare",
+    apk: "moduleshare.apk",
+    presigned: false, 
+    preprocessed: false,
+    certificate: "platform",
+    dex_preopt: {
+        enabled: false,
+    },
+    system_ext_specific: true,
+}
