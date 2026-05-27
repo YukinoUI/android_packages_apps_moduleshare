@@ -1,6 +1,6 @@
 android_app_import {
-    name: "moduleshare",
-    apk: "moduleshare.apk",
+    name: "ModuleShare",
+    apk: "ModuleShare.apk",
     presigned: false, 
     preprocessed: false,
     certificate: "platform",
